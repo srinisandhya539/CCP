@@ -1,0 +1,36 @@
+/* body{
+    background-color: #03cf88;
+}
+
+h1{
+    font-size: 48px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2, h3{
+    font-size: 28px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(44, 41, 41)
+}
+
+p{
+    line-height: 30px;
+}
+
+img{
+    border: 5px solid #000000;
+    padding: 10px;
+    margin: 20px;
+} */
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+img{
+    width: 100%;
+    
+}
