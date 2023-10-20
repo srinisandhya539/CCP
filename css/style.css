@@ -130,7 +130,8 @@ video{
 }
 
 nav ul li{
-    display:inline;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
     margin: 20px;
 }
 
