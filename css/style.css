@@ -30,7 +30,11 @@ img{
 }
 .skip a{
     position: absolute;
-    top: -100px;
+    top: -200px;
+    background: white;
+    left: 0;
+    padding: 6px;
+    z-index: 1;
 }
 
 .skip a:focus{
