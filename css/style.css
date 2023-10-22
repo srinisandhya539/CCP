@@ -155,6 +155,10 @@ body{
     font-family: 'Lucida Sans', sans-serif;
 }
 
+h2{
+    font-style: oblique;
+}
+
 @media (prefers-reduced-motion){
     .gif{
         display: none;
