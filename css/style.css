@@ -154,3 +154,9 @@ body{
     background-color: rgb(255, 240, 240);
     font-family: 'Lucida Sans', sans-serif;
 }
+
+@media (prefers-reduced-motion){
+    .gif{
+        display: none;
+    }
+}
