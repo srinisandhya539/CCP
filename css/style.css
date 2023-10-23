@@ -157,12 +157,15 @@ body{
 
 h1{
     font-size: 40px;
-    font-family: 'Lucida-Sans', sans-serif;
+    font-family: 'Lucida Sans', sans-serif;
+    padding: 15px;
 }
     
 
 h2{
     font-style: oblique;
+    font-family: 'Lucida Sans', sans-serif;
+    padding: 15px;
 }
 
 @media (prefers-reduced-motion){
