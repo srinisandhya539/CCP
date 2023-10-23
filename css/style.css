@@ -153,6 +153,7 @@ nav{
 body{
     background-color: rgb(255, 240, 240);
     font-family: 'Lucida Sans', sans-serif;
+    margin: 20px;
 }
 
 h1{
